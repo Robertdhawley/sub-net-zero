@@ -108,4 +108,3 @@ Sub-Net Zero could transform SpaceX’s operations and ocean technology. Efficie
 17. [Deloitte. (2018). The Future of Automated Manufacturing.](https://www2.deloitte.com/us/en/insights/industry/manufacturing/future-of-manufacturing-automation.html)
 18. [National Oceanic and Atmospheric Administration. (2021). Environmental Impact of Underwater Structures.](https://www.noaa.gov/education/resource-collections/ocean-coasts/underwater-habitats)
 19. Brown, K., et al. (2020). Feasibility of ocean floor terraforming. *Ocean Engineering Journal, 198, 107-119*.
-20. SpaceX. (2022). *Internal Report: Fairing Recovery Cost Analysis*. [Assumed internal document; replace with actual if available].
