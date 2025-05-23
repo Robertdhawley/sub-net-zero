@@ -1,4 +1,4 @@
-AI Disclaimer: This repository was created with AI assistance. The author directed the AI to focus on quantum computing applications, curated the content, and refined the output for accuracy and relevance.
+AI Disclaimer: This repository was created with AI assistance. The author directed the AI to focus on Sub-Net Zero applications, curated the content, and refined the output for accuracy and relevance.
 
 # Sub-Net Zero Project
 
