@@ -1,4 +1,6 @@
-AI Disclaimer: This repository was created with AI assistance. The author directed the AI to focus on quantum computing applications, curated the content, and refined the output for accuracy and relevance.# Sub-Net Zero Project
+AI Disclaimer: This repository was created with AI assistance. The author directed the AI to focus on quantum computing applications, curated the content, and refined the output for accuracy and relevance.
+
+# Sub-Net Zero Project
 
 ## Project Overview
 Sub-Net Zero is an innovative initiative designed to harness autonomous underwater vehicles (AUVs) for multiple high-impact objectives: recovering SpaceX payload fairings from the ocean, terraforming ocean floors for underwater residences, geomapping the ocean bed, and executing rescue operations. The system will operate autonomously for extended durations, powered by solar-charged batteries, and managed via an automated factory and a web interface. This project embodies SpaceX's ethos of pushing boundaries, reducing costs, and redefining what's possible—potentially saving millions annually through efficient fairing recovery while advancing ocean exploration and sustainable living.
